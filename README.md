@@ -16,6 +16,8 @@
   <h2>My current project...</h2>
   - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
+  <h2>My passion project:</h2>
+  
   <h2>Looking to get in touch?</h2>
 <div align="center">
   
