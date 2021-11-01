@@ -4,10 +4,10 @@
 ![anime-coffee](https://user-images.githubusercontent.com/53263769/139712086-081ac75c-8439-4876-b100-1ad34c29689e.gif)
 
   <h2>I am...</h2>
-  - A programmer
-  - A crafter
-  - A coffee-lover
-  - A huge nerd!
+- A programmer
+- A crafter
+- A coffee-lover
+- A huge nerd!
   
   <h2>My current project...</h2>
   - 🔭 I’m currently working on Panel Picker for MN Startup Week
