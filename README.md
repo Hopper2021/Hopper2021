@@ -18,7 +18,7 @@
 
   <h2>My passion project:</h2>
   
-<img width="50" alt="login" src="https://user-images.githubusercontent.com/53263769/139718227-b2d71538-73ed-4ee6-9698-cc3f9ee9c9d8.png"><img width="50" alt="create-tournament-3-scores" src="https://user-images.githubusercontent.com/53263769/139718250-762ecf00-b554-4e4c-844e-7acde453a377.png">
+<img width="100" alt="login" src="https://user-images.githubusercontent.com/53263769/139718227-b2d71538-73ed-4ee6-9698-cc3f9ee9c9d8.png"><img width="100" alt="create-tournament-3-scores" src="https://user-images.githubusercontent.com/53263769/139718250-762ecf00-b554-4e4c-844e-7acde453a377.png">
 
 
     
