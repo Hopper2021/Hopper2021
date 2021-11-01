@@ -4,7 +4,8 @@
 
 ##Looking to get in touch?
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jessica-a-buckwalter/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-a-buckwalter/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:jess.a.buckwalter@gmail.com)]
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hopper2021&show_icons=true)
 
