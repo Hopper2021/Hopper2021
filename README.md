@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
 </div>
-----
+
 <div align="center">
   <h2>Looking to get in touch?</h2>
 
