@@ -1,7 +1,9 @@
+<h1> Hello! </h1>
 <div align="center">
-<h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![anime-coffee](https://user-images.githubusercontent.com/53263769/139712086-081ac75c-8439-4876-b100-1ad34c29689e.gif)
+</div>
 
   <h2>I am...</h2>
 - A programmer
@@ -13,7 +15,7 @@
   - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
   <h2>Looking to get in touch?</h2>
-
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-a-buckwalter/)
 <a href="mailto:jessica.a.buckwalter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
