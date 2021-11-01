@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
 ##Looking to get in touch?
-![LINKEDIN](https://www.linkedin.com/in/jessica-a-buckwalter/)
+![https://www.linkedin.com/in/jessica-a-buckwalter/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jessica-a-buckwalter/)
