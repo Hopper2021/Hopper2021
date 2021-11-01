@@ -2,7 +2,7 @@
 <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
 <div align="right"
-<img src="https://i.pinimg.com/originals/b5/1f/c3/b51fc33420042d18605b03e9eb8ea65f.gif"/>
+<img src="https://64.media.tumblr.com/9c47dbee217c7ee81ff966519eebc9fa/43c46c7c74863eec-0f/s500x750/c8b86a21efe26540de38b1b2546c70da952eeee9.gifv"/>
 </div>
 
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
