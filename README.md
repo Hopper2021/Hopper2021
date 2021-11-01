@@ -1,5 +1,9 @@
 <div text-align="center">
 <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  
+<div align="right"
+<img src="https://i.pinimg.com/originals/b5/1f/c3/b51fc33420042d18605b03e9eb8ea65f.gif"/>
+</div>
 
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
 </div>
