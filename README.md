@@ -3,10 +3,8 @@
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
 ##Looking to get in touch?
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/jessica-a-buckwalter/`
 
-
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jessica-a-buckwalter/)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jessica-a-buckwalter/)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hopper2021&show_icons=true)
 
