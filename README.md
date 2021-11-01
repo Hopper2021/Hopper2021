@@ -7,9 +7,9 @@
   <h2>I am...</h2>
 <ul>
   <li> A programmer </li>
-- A crafter
-- A coffee-lover
-- A huge nerd!
+  <li> A crafter and artist </li>
+  <li> A coffee-lover </li>
+  <li> A huge nerd! </li>
 </ul>
   
   <h2>My current project...</h2>
@@ -19,7 +19,6 @@
 <div align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-a-buckwalter/)
-
 <a href="mailto:jessica.a.buckwalter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hopper2021&show_icons=true)
