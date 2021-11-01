@@ -32,6 +32,7 @@ Check out the project here: https://github.com/Hopper2021/tournament-creator
 <a href="mailto:jessica.a.buckwalter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <h2>Stats!</h2>
+  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hopper2021&show_icons=true)
 </div>
 <!--
