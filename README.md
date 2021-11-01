@@ -18,9 +18,14 @@
 
   <h2>My passion project:</h2>
   
+<img width="50" alt="login" src="https://user-images.githubusercontent.com/53263769/139718227-b2d71538-73ed-4ee6-9698-cc3f9ee9c9d8.png"><img width="50" alt="create-tournament-3-scores" src="https://user-images.githubusercontent.com/53263769/139718250-762ecf00-b554-4e4c-844e-7acde453a377.png">
+
+
+    
   <h2>Looking to get in touch?</h2>
 <div align="center">
-  
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-a-buckwalter/)
 <a href="mailto:jessica.a.buckwalter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
