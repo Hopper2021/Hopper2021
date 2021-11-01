@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
 ##Looking to get in touch?
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jessica-a-buckwalter/)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Hopper2021&show_icons=true)
