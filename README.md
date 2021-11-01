@@ -17,10 +17,12 @@
   - 🔭 I’m currently working on Panel Picker for MN Startup Week
 
   <h2>My passion project:</h2>
+
+A tournament creator app made for the international non-profit, Amtgard.
+
+Check out the project here: https://github.com/Hopper2021/tournament-creator
   
 <img width="150" alt="login" src="https://user-images.githubusercontent.com/53263769/139718227-b2d71538-73ed-4ee6-9698-cc3f9ee9c9d8.png"><img width="150" alt="create-tournament-3-scores" src="https://user-images.githubusercontent.com/53263769/139718250-762ecf00-b554-4e4c-844e-7acde453a377.png">
-
-
     
   <h2>Looking to get in touch?</h2>
 <div align="center">
