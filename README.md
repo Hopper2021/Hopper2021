@@ -14,7 +14,7 @@
 </ul>
   
   <h2>My current project...</h2>
-  - 🔭 I’m currently working on a "Session Submission and Voting App" for Twin Cities Startup Week ( BetaMN )
+  - 🔭 I’m currently working on a voting application for Amtgard, Polaris ( Non-profit )
 
   <h2>My passion project:</h2>
 
