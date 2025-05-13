@@ -7,7 +7,7 @@
 
   <h2>Current Project:</h2>
 
-A spellbook point calculator that uses the latest playtest rules for Amtgard, ( Sappy ) it mimics the current known Spellbook application to be familiar to users and uses localStorage to create and house spellLists based on the new ruleset.
+A spellbook point calculator that uses the latest playtest rules for Amtgard, ( Sappy ) it mimics the first Spellbook application to be familiar to users and uses localStorage to create and house spellLists based on the new ruleset.
 
 Currently: In Progress
 
